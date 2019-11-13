@@ -1,2 +1,1 @@
-# custom-browser-scrollBar
-Use custom style scroll bars
+﻿# custom-browser-scrollBarUse custom style scroll bars仅支持webkit内核的浏览器
